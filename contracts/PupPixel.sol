@@ -1915,10 +1915,9 @@ library Math {
  **********************************************************************************
  *
  *                              NFT Contract
- * Author: Group 0 | PupPixel
- * StudentID1: 6x0705010xx
- * StudentID1: 6x0705010xx
- * StudentID1: 6x0705010xx
+ * Author: Group 7 | PupPixel
+ * StudentID1: 62070501018
+ * StudentID2: 62070501023
  * ContractName: PupPixel
  *
  **********************************************************************************
